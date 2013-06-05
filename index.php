@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>TourQwest - San Francisco - CA</title>
+    <title>Quaquer coisa</title>
     <link rel="stylesheet" href="css/fontface.css" />
     <link rel="stylesheet" href="-css/foundation.css" />
     <link rel="stylesheet" href="css/style.css" />    
